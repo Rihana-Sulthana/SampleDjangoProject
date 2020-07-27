@@ -1,0 +1,11 @@
+Django
+PyJWT
+asgiref
+djangorestframework
+djangorestframework-simplejwt
+patterns
+pip
+psycopg2
+pytz
+setuptools
+sqlparse
